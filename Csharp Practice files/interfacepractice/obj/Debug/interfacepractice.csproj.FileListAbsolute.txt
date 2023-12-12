@@ -1,7 +1,0 @@
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\interfacepractice\bin\Debug\interfacepractice.exe.config
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\interfacepractice\bin\Debug\interfacepractice.exe
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\interfacepractice\bin\Debug\interfacepractice.pdb
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\interfacepractice\obj\Debug\interfacepractice.csproj.AssemblyReference.cache
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\interfacepractice\obj\Debug\interfacepractice.csproj.CoreCompileInputs.cache
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\interfacepractice\obj\Debug\interfacepractice.exe
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\interfacepractice\obj\Debug\interfacepractice.pdb

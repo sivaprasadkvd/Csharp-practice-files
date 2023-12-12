@@ -1,7 +1,0 @@
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\Encapsulationdemo\bin\Debug\Encapsulationdemo.exe.config
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\Encapsulationdemo\bin\Debug\Encapsulationdemo.exe
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\Encapsulationdemo\bin\Debug\Encapsulationdemo.pdb
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\Encapsulationdemo\obj\Debug\Encapsulationdemo.csproj.AssemblyReference.cache
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\Encapsulationdemo\obj\Debug\Encapsulationdemo.csproj.CoreCompileInputs.cache
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\Encapsulationdemo\obj\Debug\Encapsulationdemo.exe
-C:\Users\vijayadurgasivaprasa\Desktop\Inheritancedemo\Encapsulationdemo\obj\Debug\Encapsulationdemo.pdb
